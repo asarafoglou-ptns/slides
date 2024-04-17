@@ -1,2 +1,2 @@
-# slides
-slides will be uploaded here
+# Slides
+Slides will be uploaded in this folder.
